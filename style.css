@@ -42,11 +42,9 @@ select, input {
     font-size: 16px;
     color: #555555;
     cursor: pointer;
-}
-
-.currency-select-convert {
     appearance: none;
 }
+
 
 button {
     background: #772FD3;
@@ -90,7 +88,7 @@ section {
     gap: 4px;
 }
 
-.currency {
+.currency, currency-convert {
     color: #777777;
     font-size: 14px;
 }
