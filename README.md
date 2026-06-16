@@ -21,7 +21,7 @@
  <br>
  <img width="1892" height="911" alt="image" src="https://github.com/user-attachments/assets/b370baea-67ff-42e4-ae8a-72942fb6ba30" />
 
-<h3> Muito feliz em dar mais um paço na área da programação </h3>
+<h3> Muito feliz em dar mais um passo na área da programação </h3>
 <p> Créditos ao: </p>
 <br>
 <a href="https://aulas.devclub.com.br">
